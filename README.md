@@ -2,13 +2,13 @@
 
 ## 📖 참고
 
-- [Jest Matchers 종류](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/jest-matchers.md)
+- [Jest Matchers 종류](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/jest-matchers.md)
 
 <br />
 
 ## 📖 개념 정리 목차
 
-- [Section 1 - 소개](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-1.md)
+- [Section 1 - 소개](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-1.md)
   - 리액트 기본 App.test.js 파일 분석
   - Jest 단언(assert)
   - Jest DOM
@@ -20,7 +20,7 @@
 
 <br />
 
-- [Section 2 - Color Button](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-2.md)
+- [Section 2 - Color Button](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-2.md)
   - Color Button(1) - 첫 레드/그린 테스트
   - Color Button(2) - 기능(functional) 테스트(with. 클릭 이벤트)
   - Color Button(3) - 인수(Acceptance) 테스트
@@ -34,12 +34,12 @@
 
 <br />
 
-- [Section 3 - ESLint 설정](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-3.md)
+- [Section 3 - ESLint 설정](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-3.md)
   - ESLint 설정
 
 <br />
 
-- [Section 4 - Sundaes on Demand](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-4.md)
+- [Section 4 - Sundaes on Demand](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-4.md)
   - Sundaes on Demand(1) - App 개요
   - Sundaes on Demand(2) - 스타일링 셋팅(react-bootstrap)
   - Sundaes on Demand(3) - SummaryForm 구조
@@ -51,7 +51,7 @@
 
 <br />
 
-- [Section 5 - Mock Service Worker(MSW)로 서버 응답 시뮬레이션](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-5.md)
+- [Section 5 - Mock Service Worker(MSW)로 서버 응답 시뮬레이션](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-5.md)
   - MSW(1) - Mock Service Worker와 핸들러 소개
   - MSW(2) - MSW로 스쿱 옵션 테스트하기
   - MSW(3) - MSW Error 테스트
@@ -59,7 +59,7 @@
 
 <br />
 
-- [Section 6 - Provider에 래핑된 컴포넌트 테스트하기](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-6.md)
+- [Section 6 - Provider에 래핑된 컴포넌트 테스트하기](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-6.md)
   - Provider(1) - 텍스트 입력란 채우기: 소계 테스트
   - Provider(2) - 테스트 설정에 Context 추가하기
   - Provider(3) - Provider Wrapper(CustomRender) 적용
@@ -70,7 +70,7 @@
 
 <br />
 
-- [Section 7 - 최종 섹션: 주문 단계](https://github.com/ssi02014/React-Testing-Tutorials/blob/master/readme/section-7.md)
+- [Section 7 - 최종 섹션: 주문 단계](https://github.com/Bogol-E/React-Testing-Tutorials/blob/master/readme/section-7.md)
   - 최종 섹션(1) - Happy Path Test
     - 디버깅 팁, 주요 테스트 에러와 해결책
   - 최종 섹션(2) - orderPhase 테스트 코드
